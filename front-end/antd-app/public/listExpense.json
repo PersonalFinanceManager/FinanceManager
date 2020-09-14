@@ -1,0 +1,18 @@
+{
+    "list": [
+        {
+            "key": "1",
+            "item": "Mortagage",
+            "expense": "$2166.39",
+            "date": "2020/08/01 12:30:00",
+            "classification": "Home/Rent"
+        },
+        {            
+            "key": "2",
+            "item": "Electricity",
+            "expense": "$343.99",
+            "date": "2020/08/01 12:20:00",
+            "classification": "Utilities"
+        }
+    ]
+}

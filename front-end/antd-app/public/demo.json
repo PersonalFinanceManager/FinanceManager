@@ -1,0 +1,29 @@
+{
+    "lists": [
+        {
+            "Maintitle": "Home/Rent",
+            "sum": "2116.39",
+            "sub": [
+                {
+                    "title": "Mortgage",
+                    "sum": "2116.39"
+                }
+            ]
+        },
+        {
+            "Maintitle": "Utilities",
+            "sum": "343.99",
+            "sub": [
+                {
+                    "title": "Electricity",
+                    "sum": "79.39"
+                },
+                {
+                    "title": "CellPhone",
+                    "sum": "29.39"
+                }
+            ]
+        }
+    ]
+}
+
