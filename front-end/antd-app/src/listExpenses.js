@@ -102,7 +102,8 @@ class ListExpenses extends React.Component {
     ]
 
     componentDidMount() {
-        axios.get(process.env.PUBLIC_URL+'/listExpense.json')
+        //axios.get(process.env.PUBLIC_URL+'/listExpense.json')
+        axios.get('/api/Transcation')
         .then(response=>{
             this.setState({
                 data: response.data.list
